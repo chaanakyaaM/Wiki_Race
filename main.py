@@ -1,4 +1,4 @@
-# Inspird from Green Code (Youtube)
+# Inspird from Green Code
 import requests
 from bs4 import BeautifulSoup
 import time

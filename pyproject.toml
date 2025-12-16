@@ -1,7 +1,7 @@
 [project]
 name = "wiki-race"
 version = "0.1.0"
-description = "Add your description here"
+description = "This project implements an intelligent Wikipedia crawler that navigates from one article to another using semantic similarity."
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
